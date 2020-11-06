@@ -1,0 +1,10 @@
+Monte Carlo Simülasyonu nedir ?
+
+Monte carlo simülasyonu teorik olasılığın çok fazla pratik yapılarak kanıtlanmasıdır.
+Şöyle ki biz bir paranın yazı gelmesinin olasılığını teoride 1/2 olarak düşünürüz.
+Milyonlarca deney yapınca bu olasılığın gerçekten 1/2 ye yaklaştığını görürüz.
+Bu simülasyon aynı zamanda şekli tam olmayan alanların dış çerçevesiyle oranını bulmakta
+da işe yarar ben bunu java dilinde random fonksiyonunu kullanarak ispat edeceğim.
+bilgisayardan 4 e kadar (0,1,2,3) rasgele bir sayı alıp bu sayının 2 olma olasılığının
+yüzdesini denendiği kadar anlık olarak yazdıracağım deneme sayısı arttıkça 2 gelme oranın %25 e 
+yaklaştığını gözlemleyeceğiz.

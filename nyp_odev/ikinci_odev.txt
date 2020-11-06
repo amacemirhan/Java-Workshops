@@ -1,0 +1,14 @@
+JavaDoc nedir?
+
+Araştırmalarım sonucunda anladığım kadarıyla javadoc kodun içerisinde 
+belirli anahtar kelimeleri kullanarak kodumuz hakkında bazı bilgileri 
+örneğin claası yazan kişi, yazdığımız koddaki değişkenler ve değişkenlerin 
+tipleri ve bunların açıklamaları gibi bilgileri html formatında bir sayfa 
+haline getirebilmemize yarıyor.
+Bazı anahtar keilmeler:
+@author,@param,@version,@return vb.
+BUnların hepsini tabiki özel doc için oluşturulmuş yorum satırı içerisine yazıyoruz
+/**
+*@author Mehmed Emirhan AMAÇ
+*@since 21.10.2020
+*/
